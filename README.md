@@ -1,6 +1,6 @@
 从该站学习[ModDota](https://moddota.com/)
 
-0.VSCode中的插件推荐
+0. VSCode中的插件推荐
 
 - dota-reborn-code (Dota KV文件提示,lua提示等): https://marketplace.visualstudio.com/items?itemName=XavierCHN.dota-reborn-code
 - dota2-作图工具 (查询API,一些API有中文注释,也有代码提示,但没有上面的那个好用,我用它来查询API和其他东西): https://marketplace.visualstudio.com/items?itemName=bigciba.dota2-tools
@@ -8,7 +8,7 @@
 
 
 
-1.[Script](https://moddota.com/scripting-introduction/)
+1. [Script](https://moddota.com/scripting-introduction/)
   
   - 解包其他mod和如何在Github搜索代码: https://moddota.com/scripting-introduction/#scripting-examples-and-sources
   - API站点: https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting/API
