@@ -7,11 +7,21 @@
 - Dota2 Coding Helper (api查询等,客户端api查询在我电脑上挂了,其他功能暂未体验,他也是[Dota2 Simple GUI](https://marketplace.visualstudio.com/items?itemName=robincode.dota2-simple-gui)的作者,不过github上说迁移了): https://marketplace.visualstudio.com/items?itemName=robincode.dota2-coding-helper
 
 
+1.地图编辑器操作: https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools:zh-cn/Level_Design:zh-cn/Tile_Editor_Basics:zh-cn
 
-1. [Script](https://moddota.com/scripting-introduction/)
+2. [Script](https://moddota.com/scripting-introduction/)
   
   - 解包其他mod和如何在Github搜索代码: https://moddota.com/scripting-introduction/#scripting-examples-and-sources
   - API站点: https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting/API
   - 内置事件: https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting/Built-In_Engine_Events
   
+
+ 3.[TypeScript To Lua](https://moddota.com/scripting/Typescript/typescript-introduction)
   
+  - TypeScript Addon Template ([使用](https://moddota.com/scripting/Typescript/typescript-introduction#setting-up-typescript)): https://github.com/ModDota/TypeScriptAddonTemplate
+  - TypeScript 模板中的一些说明: https://moddota.com/scripting/Typescript/typescript-introduction#typescript-addon-structure
+  - TypeScript 模板更新(挺慢的): https://moddota.com/scripting/Typescript/typescript-introduction#updating-your-addon
+  - TypeScript 模板自动检测变更并翻译: https://moddota.com/scripting/Typescript/typescript-introduction/#activating-the-watcher
+  - TypeScript 模板tsconfig.json设置类型: https://moddota.com/scripting/Typescript/typescript-introduction/#normalized-types
+  - TypeScript 模板例子: https://moddota.com/scripting/Typescript/typescript-introduction/#integrated-examples
+  - 多语言: https://moddota.com/scripting/Typescript/tooltip-generator/
