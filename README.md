@@ -30,11 +30,15 @@
   - - [启动和关闭语言项](https://moddota.com/scripting/Typescript/tooltip-generator/#language-control),在resource目录下的language.ts中注释和取消注释枚举即可,该操作需要重新开启一下Watch(ctrl+shift+b)或者`npm run dev`
   - - [教程作者的一个文件家规范方式](https://github.com/Shushishtok/dota-reimagined/tree/master/game/resource/localization)
 
-### 4. 技能图标
+### 4. 技能
+
+- [KV文件整理(不全)](./AbilityKV.md)
+
+#### - 技能图标
 
   - 内置图标名: https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting/Built-In_Ability_Names
 
-### 数据驱动技能
+#### - 数据驱动技能
 - KV文件的一些帮助(source部分): https://moddota.com/abilities/ability-keyvalues/#scriptselectpoints
 - 中文详细一点的文档: https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools:zh-cn/Scripting:zh-cn/Abilities_Data_Driven:zh-cn
 
