@@ -25,3 +25,5 @@
   - TypeScript 模板tsconfig.json设置类型: https://moddota.com/scripting/Typescript/typescript-introduction/#normalized-types
   - TypeScript 模板例子: https://moddota.com/scripting/Typescript/typescript-introduction/#integrated-examples
   - 多语言: https://moddota.com/scripting/Typescript/tooltip-generator/
+  - - [启动和关闭语言项](https://moddota.com/scripting/Typescript/tooltip-generator/#language-control),在resource目录下的language.ts中注释和取消注释枚举即可,该操作需要重新开启一下Watch(ctrl+shift+b)或者`npm run dev`
+  - - [教程作者的一个文件家规范方式](https://github.com/Shushishtok/dota-reimagined/tree/master/game/resource/localization)
