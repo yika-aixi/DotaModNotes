@@ -16,7 +16,7 @@
   - 内置事件: https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting/Built-In_Engine_Events
   
 
- 3.[TypeScript To Lua](https://moddota.com/scripting/Typescript/typescript-introduction)
+3.[TypeScript To Lua](https://moddota.com/scripting/Typescript/typescript-introduction)
   
   - TypeScript Addon Template ([使用](https://moddota.com/scripting/Typescript/typescript-introduction#setting-up-typescript)): https://github.com/ModDota/TypeScriptAddonTemplate
   - TypeScript 模板中的一些说明: https://moddota.com/scripting/Typescript/typescript-introduction#typescript-addon-structure
@@ -27,3 +27,11 @@
   - 多语言: https://moddota.com/scripting/Typescript/tooltip-generator/
   - - [启动和关闭语言项](https://moddota.com/scripting/Typescript/tooltip-generator/#language-control),在resource目录下的language.ts中注释和取消注释枚举即可,该操作需要重新开启一下Watch(ctrl+shift+b)或者`npm run dev`
   - - [教程作者的一个文件家规范方式](https://github.com/Shushishtok/dota-reimagined/tree/master/game/resource/localization)
+
+4. 技能图标
+
+  - 内置图标名: https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting/Built-In_Ability_Names
+
+### Other
+
+- 使用`SetCustomHeroMaxLevel`API可以设置英雄最大等级,在TypeScript中为`GameRules.GetGameModeEntity().SetCustomHeroMaxLevel(100);`
