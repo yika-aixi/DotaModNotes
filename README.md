@@ -1,5 +1,7 @@
 从该站学习[ModDota](https://moddota.com/)
 
+### [常量](https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting/API#Constants)
+
 ### 0. VSCode中的插件推荐
 
 - dota-reborn-code (Dota KV文件提示,lua提示等): https://marketplace.visualstudio.com/items?itemName=XavierCHN.dota-reborn-code
@@ -31,6 +33,10 @@
 ### 4. 技能图标
 
   - 内置图标名: https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Scripting/Built-In_Ability_Names
+
+### 数据驱动技能
+- KV文件的一些帮助(source部分): https://moddota.com/abilities/ability-keyvalues/#scriptselectpoints
+- 中文详细一点的文档: https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools:zh-cn/Scripting:zh-cn/Abilities_Data_Driven:zh-cn
 
 ## Other
 
