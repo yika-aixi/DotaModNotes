@@ -42,6 +42,18 @@
 - - KV文件的一些帮助(source部分): https://moddota.com/abilities/ability-keyvalues/#scriptselectpoints
 - - 中文详细一点的文档: https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools:zh-cn/Scripting:zh-cn/Abilities_Data_Driven:zh-cn
 
+### 5. Item
+
+- 自定义图标路径为(sie:86x64): `resource/flash3/images/items/ItemName`(不带item_前缀) - `item_testitem` -> resource/flash3/images/items/testitem
+- 内置图标需要带`item_` - `item_mango`
+
+### 6. 商店
+
+- 商店文件命名: `mapName_shops.txt`
+- 商店文件模板: https://pastebin.com/KZrtm1xQ
+- 自定义商店区域: https://www.reddit.com/r/Dota2Modding/comments/2dpts1/tutorial_creating_a_custom_shop_step_by_step/
+- 禁用物品: `npc_ability_override.txt`
+
 ## Other
 
 - 使用`SetCustomHeroMaxLevel`API可以设置英雄最大等级,在TypeScript中为`GameRules.GetGameModeEntity().SetCustomHeroMaxLevel(100);`
