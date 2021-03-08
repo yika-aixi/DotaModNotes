@@ -33,6 +33,11 @@
 ### 4. 技能
 
 - [KV文件整理(不全)](./AbilityKV.md)
+- 获取技能等级 : Ability.GetLevel() - 从1开始
+- 获取KV文件AbilitySpecial块中的值
+- - Ability.GetSpecialValueFor("name")
+- - Ability.GetLevelSpecialValueFor("name", levelIndex) - 索引从0开始
+- 当技能持续时间需要受到技能等级影响时,使用AbilitySpecial块来定义持续时间会更好,而非使用`AbilityDuration`
 
 - #### 技能图标
 
