@@ -63,3 +63,4 @@
 ## Other
 
 - 使用`SetCustomHeroMaxLevel`API可以设置英雄最大等级,在TypeScript中为`GameRules.GetGameModeEntity().SetCustomHeroMaxLevel(100);`
+- 代码设置目标选择: `CDOTA_BaseNPC.SetCursorCastTarget(CDOTA_BaseNPC)`
