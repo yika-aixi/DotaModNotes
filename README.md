@@ -46,6 +46,7 @@
 
 - 自定义图标路径为(sie:86x64): `resource/flash3/images/items/ItemName`(不带item_前缀) - `item_testitem` -> resource/flash3/images/items/testitem
 - 内置图标需要带`item_` - `item_mango`
+- Alt点击提示: https://moddota.com/abilities/item-keyvalues/#alt-click
 
 ### 6. 商店
 
