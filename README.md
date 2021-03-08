@@ -37,7 +37,7 @@
 - 获取KV文件AbilitySpecial块中的值
 - - Ability.GetSpecialValueFor("name")
 - - Ability.GetLevelSpecialValueFor("name", levelIndex) - 索引从0开始
-- 当技能持续时间需要受到技能等级影响时,使用AbilitySpecial块来定义持续时间会更好,而非使用`AbilityDuration`
+- 当技能持续时间需要自定义提示时,使用AbilitySpecial块来定义持续时间会更好,而非使用`AbilityDuration`: https://moddota.com/abilities/abilityduration-tooltips/
 
 - #### 技能图标
 
