@@ -31,5 +31,6 @@ DOTA2数据驱动文件字段: https://developer.valvesoftware.com/wiki/Dota_2_W
 12. MaxTargets - 最大目标数量 : https://moddota.com/abilities/ability-keyvalues#limiting-the-amount-of-targets
 13. Random - 最大单位指定后多选择几个随机单位,结合MaxTargets使用 : https://moddota.com/abilities/ability-keyvalues#limiting-the-amount-of-targets
 14. AbilityUnitDamageType - 伤害类型,类型为 `DAMAGE_TYPE`
+15. precache - 预缓存块
 
 
