@@ -55,5 +55,9 @@ module.exports = {
 
 ### 安装第三方库 : https://moddota.com/panorama/webpack/#loaders-and-typescript ---- [ts](https://moddota.com/panorama/webpack/#typescript)
 
-#### 安装好以后编辑`webpack.config.js`的`module`块
+- 安装好以后编辑`webpack.config.js`的`module`块
+- ts注意最后编辑的`tsconfig.json`文件的`include`值为具体的目录名
+
+![image](https://user-images.githubusercontent.com/22412994/110929412-c685b700-82dc-11eb-8e7b-4b71e9966457.png)
+
 
