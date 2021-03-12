@@ -53,7 +53,7 @@ module.exports = {
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### 安装第三方库 : https://moddota.com/panorama/webpack/#loaders-and-typescript   [ts](https://moddota.com/panorama/webpack/#typescript)
+### 安装第三方库 : https://moddota.com/panorama/webpack/#loaders-and-typescript ---- [ts](https://moddota.com/panorama/webpack/#typescript)
 
 #### 安装好以后编辑`webpack.config.js`的`module`块
 
