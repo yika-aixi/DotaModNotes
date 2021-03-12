@@ -60,6 +60,10 @@
 - 自定义商店区域: https://www.reddit.com/r/Dota2Modding/comments/2dpts1/tutorial_creating_a_custom_shop_step_by_step/
 - 禁用物品: `npc_ability_override.txt`
 
+### 7. UI
+
+- [Webpack设置](./WebpackSetting.md)
+
 ## Other
 
 - 使用`SetCustomHeroMaxLevel`API可以设置英雄最大等级,在TypeScript中为`GameRules.GetGameModeEntity().SetCustomHeroMaxLevel(100);`
